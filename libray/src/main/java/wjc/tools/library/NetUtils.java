@@ -41,7 +41,7 @@ public class NetUtils {
         return netType;
     }
     /**
-     * wifi 是否链接
+     * wifi 是否链接wifi
      * @param context
      * @return
      */

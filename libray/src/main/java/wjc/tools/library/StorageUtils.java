@@ -12,5 +12,4 @@ import java.io.File;
  */
 public class StorageUtils {
     private static final String TAG = StorageUtils.class.getName();
-    
 }
