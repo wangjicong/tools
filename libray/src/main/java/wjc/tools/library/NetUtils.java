@@ -3,7 +3,6 @@ package wjc.tools.library;
 import android.content.Context;
 import android.content.Intent;
 import android.net.ConnectivityManager;
-import android.net.Network;
 import android.net.NetworkInfo;
 import android.provider.Settings;
 
