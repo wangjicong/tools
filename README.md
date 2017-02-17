@@ -22,3 +22,6 @@
 #StorageUtils.java 
     通过java反射的方法得到手机存储设备挂载信息。
     listAvaliableStorage（）；
+    
+#FileUtils.java 
+    1.sizeToString 文件大小转换为字符串
