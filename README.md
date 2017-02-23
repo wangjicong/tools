@@ -17,3 +17,11 @@
     1. public static String getFileSuffix(String file_path) 文件的后缀 
     2. public static String getFileSuffix(File file) 文件的后缀
     3. public static boolean hasSubString(String str,String sub) 是否包含子字符串
+    
+    
+#StorageUtils.java 
+    通过java反射的方法得到手机存储设备挂载信息。
+    listAvaliableStorage（）；
+    
+#FileUtils.java 
+    1.sizeToString 文件大小转换为字符串
